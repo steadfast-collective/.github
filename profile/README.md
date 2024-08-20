@@ -4,7 +4,6 @@
     <img align="center" width="200" height="200" src="https://avatars.githubusercontent.com/u/48587703?s=200&v=4">
 </picture>
 </p>
-<br>
 
 ## About Us
 
